@@ -32,9 +32,9 @@ Somos a **While True**, equipe responsável pelo desenvolvimento do MedShift, pr
 
 | Integrante | GitHub | Função |
 |---|---|---|
-| André | [@andreluke](https://github.com/andreluke) | Dev |
 | Camila | [@Mila-Bueno](https://github.com/Mila-Bueno) | PO |
+| Ricardo | [@RicardoJunior-Git](https://github.com/RicardoJunior-Git) | SM |
+| André | [@andreluke](https://github.com/andreluke) | Dev |
 | Isabelle | [@isa-zka](https://github.com/isa-zka) | Dev |
 | Paulo Victor | [@paulovperez](https://github.com/paulovperez) | Dev |
-| Ricardo | [@RicardoJunior-Git](https://github.com/RicardoJunior-Git) | SM |
 | Sara | [@bancodedadossara-art](https://github.com/bancodedadossara-art) | Dev |
